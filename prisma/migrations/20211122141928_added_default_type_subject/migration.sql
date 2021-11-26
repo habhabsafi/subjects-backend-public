@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE `subject` MODIFY `type` INTEGER NOT NULL DEFAULT 1;
